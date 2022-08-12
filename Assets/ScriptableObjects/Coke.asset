@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd4aa2687ad449f489c126e13bea2af0, type: 3}
+  m_Name: Coke
+  m_EditorClassIdentifier: 
+  shapeData:
+  - 29.09091
+  - 32.727272
+  - 40
+  - 43.636364
+  - 40
+  - 43.636364
+  - 43.636364
+  - 36.363636
+  - 32.727272
+  - 32.727272
+  - 32.727272
+  - 32.727272
+  - 36.363636
+  - 40
+  - 40
+  - 40
+  - 54.545456
+  - 61.818184
+  - 65.454544
+  - 69.090904
+  - 72.727264
+  - 72.727264
+  - 79.999985
+  - 79.999985
